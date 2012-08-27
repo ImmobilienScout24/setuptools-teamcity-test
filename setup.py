@@ -4,7 +4,7 @@ import os
 from setuptools import setup
 
 setup(
-    name = "teamcity-test-command",
+    name = "setuptools-teamcity-test",
     version = "0.1",
     license = "GPL",
     url = "https://github.com/immobilienscout24/teamcity-test-command",
