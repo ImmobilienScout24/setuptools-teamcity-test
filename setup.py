@@ -9,8 +9,7 @@ setup(
     license = "GPL",
     url = "https://github.com/immobilienscout24/teamcity-test-command",
     packages=['teamcity_test'],
-    #test_suite = 'test.py',
-
+    requires=['teamcity-messages'],
     author = "Sebastian Herold",
     author_email = "sebastian.herold@immobilienscout24.de",
 
