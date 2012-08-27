@@ -1,0 +1,6 @@
+*.iml
+*.pyc
+.idea
+dist
+build
+*.egg-info
