@@ -2,7 +2,7 @@ Setuptools Command to Run Tests in a TeamCity-compatible Manner
 ========================
 
 If you use python setuptools (setup.py) and run your project in TeamCity, you want to be able to see
-which tests failed and which tests got executed. This code does exactly does.
+which tests failed and which tests got executed. This code does exactly that.
 
 Usage
 -----
